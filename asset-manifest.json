@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cf51dfc.css",
-    "main.js": "/static/js/main.eadf1583.js",
-    "index.html": "/index.html",
-    "main.1cf51dfc.css.map": "/static/css/main.1cf51dfc.css.map",
-    "main.eadf1583.js.map": "/static/js/main.eadf1583.js.map"
+    "main.css": "/https//bekishh.github.io/main-buttons-styled/static/css/main.1cf51dfc.css",
+    "main.js": "/https//bekishh.github.io/main-buttons-styled/static/js/main.7e25a087.js",
+    "index.html": "/https//bekishh.github.io/main-buttons-styled/index.html",
+    "main.1cf51dfc.css.map": "/https//bekishh.github.io/main-buttons-styled/static/css/main.1cf51dfc.css.map",
+    "main.7e25a087.js.map": "/https//bekishh.github.io/main-buttons-styled/static/js/main.7e25a087.js.map"
   },
   "entrypoints": [
     "static/css/main.1cf51dfc.css",
-    "static/js/main.eadf1583.js"
+    "static/js/main.7e25a087.js"
   ]
 }
